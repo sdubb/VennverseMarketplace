@@ -16,7 +16,7 @@ const Main = () => {
       <div className="row">
         <main role="main" className="col-lg-12 justify-content-center text-center">
           <div className="content mr-auto ml-auto">
-            <img src={logo} alt="logo" width="500" height="140" className="mb-2"/>
+            <img src={"https://bafybeif4x2ab2rov5hb7r7g54oyf2i7ayfwzngjrf5hpfnvjwwa5a6mtga.ipfs.infura-ipfs.io/"} alt="logo" width="460" height="140" className="mb-2"/>
             {!collectionCtx.nftIsLoading && <MintForm />}
             {collectionCtx.nftIsLoading && <Spinner />}
           </div>
