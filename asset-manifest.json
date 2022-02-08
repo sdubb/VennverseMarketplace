@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.9f9da020.chunk.js",
-    "main.js.map": "/static/js/main.9f9da020.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5407b98b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5407b98b.js.map",
-    "static/css/2.013db2dd.chunk.css": "/static/css/2.013db2dd.chunk.css",
-    "static/js/2.039a469b.chunk.js": "/static/js/2.039a469b.chunk.js",
-    "static/js/2.039a469b.chunk.js.map": "/static/js/2.039a469b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.013db2dd.chunk.css.map": "/static/css/2.013db2dd.chunk.css.map",
-    "static/js/2.039a469b.chunk.js.LICENSE.txt": "/static/js/2.039a469b.chunk.js.LICENSE.txt",
-    "static/media/logo2.8ce4ae83.PNG": "/static/media/logo2.8ce4ae83.PNG"
+    "main.js": "/VennverseMarketplace/static/js/main.9f9da020.chunk.js",
+    "main.js.map": "/VennverseMarketplace/static/js/main.9f9da020.chunk.js.map",
+    "runtime-main.js": "/VennverseMarketplace/static/js/runtime-main.f11ef904.js",
+    "runtime-main.js.map": "/VennverseMarketplace/static/js/runtime-main.f11ef904.js.map",
+    "static/css/2.013db2dd.chunk.css": "/VennverseMarketplace/static/css/2.013db2dd.chunk.css",
+    "static/js/2.68c993b7.chunk.js": "/VennverseMarketplace/static/js/2.68c993b7.chunk.js",
+    "static/js/2.68c993b7.chunk.js.map": "/VennverseMarketplace/static/js/2.68c993b7.chunk.js.map",
+    "index.html": "/VennverseMarketplace/index.html",
+    "static/css/2.013db2dd.chunk.css.map": "/VennverseMarketplace/static/css/2.013db2dd.chunk.css.map",
+    "static/js/2.68c993b7.chunk.js.LICENSE.txt": "/VennverseMarketplace/static/js/2.68c993b7.chunk.js.LICENSE.txt",
+    "static/media/logo2.8ce4ae83.PNG": "/VennverseMarketplace/static/media/logo2.8ce4ae83.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.5407b98b.js",
+    "static/js/runtime-main.f11ef904.js",
     "static/css/2.013db2dd.chunk.css",
-    "static/js/2.039a469b.chunk.js",
+    "static/js/2.68c993b7.chunk.js",
     "static/js/main.9f9da020.chunk.js"
   ]
 }
